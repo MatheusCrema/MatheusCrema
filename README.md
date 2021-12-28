@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MatheusCrema
 - 👀 I’m interested in Clean Code Architecture 
 - 🌱 I’m currently learning message hub 
-- 💞️ I’m looking to collaborate new project ideas
+- 💞️ I’m looking to collaborate with new project ideas
 - 📫 How to reach me: https://www.linkedin.com/in/matheus-crema/
 
 <!---
